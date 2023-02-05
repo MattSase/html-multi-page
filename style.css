@@ -1,0 +1,59 @@
+#divpic {
+text-align: center;
+}
+
+.smile {
+    width: 500px;
+    height: 600px;
+}
+
+.link {
+    display: block;
+    
+    font-size: 30px;
+}
+
+.link:hover {
+    color: lime;
+}
+
+.link2 {
+    font-size: 30px;
+}
+
+.link2:hover {
+    color: lime;
+}
+
+#caption {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.memes3 {
+    width: 270px;
+    height: 600px;
+}
+
+.info {
+    font-size: 20px;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+.newlink:hover{
+    color: lime; 
+
+}
+
+.newlink {
+    font-size: 30px;
+}
+
+#caption0 {
+    font-size: 50px;
+    font-style: italic;
+}
